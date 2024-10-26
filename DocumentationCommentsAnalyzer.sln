@@ -1,11 +1,11 @@
-﻿
+﻿﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentationCommentsAnalyzer", "DocumentationCommentsAnalyzer\DocumentationCommentsAnalyzer\DocumentationCommentsAnalyzer.csproj", "{E0456D94-BFED-4048-8C8E-71D9ECD4D418}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentationCommentsAnalyzer", "src\DocumentationCommentsAnalyzer\DocumentationCommentsAnalyzer.csproj", "{E0456D94-BFED-4048-8C8E-71D9ECD4D418}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentationCommentsAnalyzer.Tests", "DocumentationCommentsAnalyzer\DocumentationCommentsAnalyzer.Tests\DocumentationCommentsAnalyzer.Tests.csproj", "{5EA8D7B2-2B1C-4F20-97D7-3A3EBBB5B8DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentationCommentsAnalyzer.Tests", "tests\DocumentationCommentsAnalyzer.Tests\DocumentationCommentsAnalyzer.Tests.csproj", "{5EA8D7B2-2B1C-4F20-97D7-3A3EBBB5B8DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
