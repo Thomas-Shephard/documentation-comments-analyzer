@@ -21,7 +21,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <None Include="$(SolutionDir)\tools\*.ps1" Pack="true" PackagePath="tools" Visible="false" />
+        <None Include="$(SolutionDir)\src\tools\*.ps1" Pack="true" PackagePath="tools" Visible="false" />
         <None Include="$(OutputPath)\$(AssemblyName).dll" Pack="true" PackagePath="analyzers/dotnet/cs" Visible="false" />
     </ItemGroup>
 
